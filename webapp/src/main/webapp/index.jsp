@@ -28,7 +28,7 @@
 <body>
   <div class="container">
     <h1>Welcome to Eficens!</h1>
-    <p>Happy Learning....</p>
+    <p>Hard Learning to be simplified....</p>
   </div>
 </body>
 </html>
